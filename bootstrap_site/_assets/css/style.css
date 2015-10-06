@@ -1,0 +1,49 @@
+/**
+ - Filename: main.css
+ - Created On: Dec. 09, 2014
+ - Version: 1
+ - Author: Cheen Rodroguez <dindo@greyandgreentech.com> 
+*/
+
+/* CSS Elements */
+p {
+	line-height: 20px;
+}
+/* Classes */
+.fish_icon {
+  margin-left: 15px;
+}
+.img-circle:hover {
+webkit-transform: rotateY(180deg);
+-webkit-transform-style: preserve-3d;
+transform: rotateY(180deg);
+transform-style: preserve-3d;
+-webkit-transition: all 0.7s ease;
+transition: all 0.7s ease;
+}
+.signin {
+line-height: 50px;
+font-size: 14px;
+color: #fff;
+margin-left: 15px;
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.contact {
+ margin-bottom: 10px;
+}
+.contact.message {
+ height: 200px;
+}
+.signin_container {
+width: 310px;
+height: 310px;
+border: 1px solid #ddd;
+}
+.location_map_container {
+width: 700px;
+height: 500px;
+}
+/* IDs */
+#sample_id {
+  font-size: 14px;
+}

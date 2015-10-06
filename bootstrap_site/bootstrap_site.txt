@@ -1,0 +1,52 @@
+<NotepadPlus>
+    <Project name="bootstrap_site">
+        <Folder name="_assets">
+            <Folder name="css">
+                <File name="_assets\css\bootstrap.min.css" />
+                <File name="_assets\css\carousel.css" />
+                <File name="_assets\css\css.css" />
+                <File name="_assets\css\dashboard.css" />
+                <File name="_assets\css\main.css" />
+                <File name="_assets\css\normalize.css" />
+                <File name="_assets\css\reset.css" />
+                <File name="_assets\css\style.css" />
+            </Folder>
+            <Folder name="images">
+                <File name="_assets\images\community_service_image.png" />
+                <File name="_assets\images\fish.png" />
+                <File name="_assets\images\God&#x2019;s-Not-Dead.jpg" />
+                <File name="_assets\images\involved_image.png" />
+                <File name="_assets\images\kids_image.jpg" />
+                <File name="_assets\images\kids_image.png" />
+                <File name="_assets\images\learn.png" />
+                <File name="_assets\images\live.png" />
+                <File name="_assets\images\love.png" />
+                <File name="_assets\images\move_image.png" />
+                <File name="_assets\images\unity_image.jpg" />
+                <File name="_assets\images\volunteer_image.jpg" />
+            </Folder>
+            <Folder name="js">
+                <File name="_assets\js\bootstrap.min.js" />
+                <File name="_assets\js\docs.min.js" />
+                <File name="_assets\js\ie-emulation-modes-warning.js" />
+                <File name="_assets\js\ie10-viewport-bug-workaround.js" />
+                <File name="_assets\js\location_map.js" />
+                <File name="_assets\js\datepicker.js" />
+            </Folder>
+            <Folder name="vendors" />
+            <File name="_assets\readme.txt" />
+        </Folder>
+        <File name="about.php" />
+        <File name="contact.php" />
+        <File name="database_connection.php" />
+        <File name="index.php" />
+        <File name="login.php" />
+        <File name="logout.php" />
+        <File name="signup.php" />
+        <File name="forgot_password.php" />
+        <File name="signin.php" />
+        <File name="user_success.php" />
+        <File name="admin_dashboard.php" />
+        <File name="user_dashboard.php" />
+    </Project>
+</NotepadPlus>

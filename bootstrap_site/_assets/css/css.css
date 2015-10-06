@@ -1,0 +1,19 @@
+/**
+ - Filename: main.css
+ - Created On: Dec. 09, 2014
+ - Version: 1
+ - Author: Cheen Rodroguez <dindo@greyandgreentech.com> 
+*/
+
+/* CSS Elements */
+p {
+	line-height: 20px;
+}
+/* Classes */
+.fish_icon {
+  margin-left: 15px;
+}
+/* IDs */
+#sample_id {
+  font-size: 14px;
+}
